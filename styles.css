@@ -1,0 +1,40 @@
+header {
+    font-family: Arial;
+    font-size: medium;
+    color: lightcyan;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    text-align: center;
+}
+
+.first_info {
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    text-wrap: pretty;
+}
+
+.roflan_ebalo{
+    background-size: cover;
+}
+
+.second_info {
+    text-align: left;
+}
+
+.third_info {
+    text-align: left;
+}
+
+footer{
+    border-top: 0.1cm solid black;
+    font-size: medium;
+    text-align: center;
+}
+
